@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Krishna Teja 👋
 
-<!--
-**krishnagopagoni/krishnagopagoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in Artificial Intelligence & Machine Learning  
+📊 Aspiring Data Scientist | Machine Learning Enthusiast  
+💻 Skilled in Python, Data Analysis, Machine Learning, SQL  
 
-Here are some ideas to get you started:
+🔹 I work on real-world data science projects including:
+- Loan Default Prediction
+- Blinkit & FNP Sales Analysis
+- ML Classification & Prediction Models
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Currently seeking entry-level roles in:
+Data Science | AI/ML | Python Developer
+
+📫 Reach me at: krishnatejagopagoni@gmail.com  
+🔗 Portfolio: https://krishna-teja-portfolio-showcase.lovable.app/
