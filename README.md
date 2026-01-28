@@ -4,7 +4,7 @@
 📊 Aspiring Data Scientist | Machine Learning Enthusiast  
 💻 Skilled in Python, Data Analysis, Machine Learning, SQL  
 
-🔹 I work on real-world data science projects including:
+🔹 I work on real-world  projects including Data Science,Data Analysis,MachineLearning,DeepLearning:
 - Loan Default Prediction
 - Blinkit & FNP Sales Analysis
 - ML Classification & Prediction Models
